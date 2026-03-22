@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#FF7AA2"/>
+      <stop offset="100%" stop-color="#FFD6A5"/>
+    </linearGradient>
+    <style>
+      .bg { fill: url(#g2); }
+      .title { font-family: Arial, Helvetica, sans-serif; font-size:48px; fill: #fff; font-weight:700 }
+      .sub { font-family: Arial, Helvetica, sans-serif; font-size:20px; fill: rgba(255,255,255,0.95) }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="800" rx="16"/>
+  <g transform="translate(60,520)">
+    <text class="title">Campaign B</text>
+    <text class="sub" y="42">프로모션 배너 B (placeholder)</text>
+  </g>
+  <g transform="translate(720,60)">
+    <rect x="0" y="0" width="360" height="240" rx="10" fill="rgba(255,255,255,0.08)"/>
+  </g>
+</svg>
