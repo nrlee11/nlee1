@@ -432,6 +432,10 @@ p {
   color: var(--secondary-light);
 }
 
+.p-url {
+  color: var(--primary);
+}
+
 .project-split.reverse .p-role span {
   color: var(--secondary-light);
 }
