@@ -433,7 +433,7 @@ p {
 }
 
 .p-url {
-  color: var(--primary);
+  color: var(--secondary-light);
 }
 
 .project-split.reverse .p-role span {
